@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33167cfa610b2f843b7fa73fc6d09b5f, type: 3}
+  m_Name: SpriteDataBase
+  m_EditorClassIdentifier: 
+  _moveXRef:
+    m_AssetGUID: 5e8278e012ff04d9a8bbd92350645568
+    m_SubObjectName: ExTarget
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  _moveORef:
+    m_AssetGUID: bd30ced15dd1c4a81a8798331e1abe4a
+    m_SubObjectName: CircleTarget
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0

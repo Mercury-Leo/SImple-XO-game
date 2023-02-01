@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: aeda1d42ca7d69f47898c4085eb182e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameManager: {instanceID: 0}
+  - _timeManager: {instanceID: 0}
+  - _timePresenter: {instanceID: 0}
+  - _movePresenter: {instanceID: 0}
+  - _spriteDataBase: {fileID: 11400000, guid: ab559db589ae05c4dbd9d282b7744220, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

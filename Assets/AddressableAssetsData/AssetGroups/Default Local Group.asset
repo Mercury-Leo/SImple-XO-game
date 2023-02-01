@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 632fd7afe79444e4aa3276e180cb0f2a
+  m_SerializeEntries:
+  - m_GUID: 5e8278e012ff04d9a8bbd92350645568
+    m_Address: ExTarget.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: bd30ced15dd1c4a81a8798331e1abe4a
+    m_Address: CircleTarget.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sprite
+  - m_GUID: 16f022ffb2143cb43ad2a70055a2d67d
+    m_Address: GameEndPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Popup
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2b441c099507bbc4cbe0f608c6de04eb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8f949a5b05d92d04cba0ae3bfafea82e, type: 2}
+    - {fileID: 11400000, guid: 6f97436ca9c745f41ba1147bd8fe9fab, type: 2}
